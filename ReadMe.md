@@ -8,6 +8,7 @@ This is a collection of basic machine learning algorithms implemented in PyTorch
     <li> Linear Regression </li>
     <li> Logistic Regression </li>
     <li> KMeans Clustering </li>
+    <li> Graph Neural Network (to be revised) </li>
 </ul>
 
 More algotithms to come...
